@@ -1,0 +1,36 @@
+.contadores button{
+    background-color: rgb(55, 61, 32);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px 5px;
+    cursor: pointer;
+}
+
+.contadores button:active{
+    background-color: rgb(105, 111, 82);
+}
+
+
+
+.contadores p{
+    margin-block: 5px;
+    margin: 5px 5px;
+    background-color: white;
+    padding: 20px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.contadores{
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+}
+
+

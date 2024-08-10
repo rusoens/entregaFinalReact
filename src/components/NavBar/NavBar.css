@@ -1,0 +1,39 @@
+.imgToyToy{
+    display: flex;
+    width: 80px;
+    margin-left: 10px;
+}
+
+
+header{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    justify-content: space-between;
+    background-color: black;
+    margin: 0;
+    text-decoration: none;
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
+    cursor: pointer;
+}
+
+a{
+    background-color: none;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:active{
+    color: orange;
+}
+
+h1{
+    align-items: start;
+}
+

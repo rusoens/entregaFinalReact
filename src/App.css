@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  background-color: gray;
+}
+
+.btnStandar{
+  padding: 10px 20px;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #373d20;
+  color: white;
+  font-size: 1.2rem;
+  width: 8rem;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.btnStandar:active{
+  background-color: rgb(105, 111, 82);
+}
